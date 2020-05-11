@@ -14,3 +14,5 @@ app.layout = html.Div([
     dcc.Graph(figure=fig)
 ])
 app.run_server(host='0.0.0.0')
+
+# SQL
